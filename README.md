@@ -30,7 +30,6 @@
 ## DeFi (Decentralized Finance)
 + [DeFi Security] Sok: Decentralized finance(defi) attacks (2023, IEEE Symposium on Security and Privacy (SP))
 + [DeFi Security] Flash boys 2.0: Frontrunning in decentralized exchanges, miner extractable value, and consensus instability (2020, IEEE Symposium on Security and Privacy (SP))
-+ 
 
 ## PoS Security/Privacy
 + [PoS Security] Ethereum Proof-of-Stake Consensus Layer: Participation and Decentralization (2024, Financial Cryptography and Data  Security)
