@@ -1,4 +1,4 @@
-# smart_contract_blockchain_top_tier_conference_paper
+# smart_contract_blockchain_paper
 
 
 
