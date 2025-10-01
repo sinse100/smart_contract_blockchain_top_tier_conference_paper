@@ -21,6 +21,8 @@
 + [Classical Consensus] The Byzantine Generals Problem (1982, ACM Transactions on Programming Languages and Systems (TOPLAS))
 + [Bitcoin] Bitcoin's academic pedigree (2017, Communications of the ACM)
 
+## Layer 2
++ [Bitcoin] The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments (2016, -)
 
 ## Blockchain/Smart Contract Security/Privacy
 
