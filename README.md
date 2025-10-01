@@ -25,8 +25,8 @@
 + [Bitcoin] The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments (2016, -)
 
 ## Blockchain/Smart Contract Security/Privacy
-
-+  [Blockchain Privacy] A fistful of Bitcoins:  characterizing payments among men with no names (2013, conference on Internet measurement conference)
++ [Consensus Security] Majority is not enough: Bitcoin mining is vulnerable (2014, Financial Cryptography and Data Security)
++ [Blockchain Privacy] A fistful of Bitcoins:  characterizing payments among men with no names (2013, conference on Internet measurement conference)
 
 
 ## DeFi (Decentralized Finance)
