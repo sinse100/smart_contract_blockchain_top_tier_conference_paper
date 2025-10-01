@@ -13,7 +13,7 @@
 + Internet Measurement Conference
 + International Symposium on Software Testing and Analysis
 + International Conference on Software Engineering
-
++ CHI Conference on Human Factors in Computing Systems
 
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
@@ -38,3 +38,7 @@
 ## PoW Security/Privacy
 
 ## DApp (Decentralized Application)
+
+
+## Cryptocurrency Wallet
+[User Perception Survey] Of Secrets and Seedphrases: Conceptual Misunderstandings and Security Challenges for Seed Phrase Management among Cryptocurrency Users. (2025, CHI Conference on Human Factors in Computing Systems)
