@@ -3,18 +3,23 @@
 
 
 # List of Top Tier Conference
-+ Financial Cryptography and Data Security
-+ ACM Advances in Financial Technologies
-+ International Conference on Blockchain and Cryptocurrency
-+ IEEE Security & Privacy
++ Financial Cryptography and Data Security (FC)
++ ACM Advances in Financial Technologies (AFT)
++ International Conference on Blockchain and Cryptocurrency (ICBC)
++ IEEE Security & Privacy (S&P)
 + Network and Distributed System Security (NDSS) Symposium
 + USENIX Security
-+ ACM Conference on Computer and Communications Security
-+ Internet Measurement Conference
-+ International Symposium on Software Testing and Analysis
-+ International Conference on Software Engineering
++ ACM Conference on Computer and Communications Security (CCS)
++ Internet Measurement Conference (IMC)
++ International Symposium on Software Testing and Analysis (ISSTA)
++ International Conference on Software Engineering (ICSE)
 + CHI Conference on Human Factors in Computing Systems
-+ International Conference on Dependable Systems and Networks
++ International Conference on Dependable Systems and Networks (DSN)
++ International Symposium on Research in Attacks, Intrusions and Defenses (RAID)
++ International Conference on Computer Communications (INFOCOM)
++ International Conference on Automated Software Engineering (ASE)
+
+
 
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
