@@ -19,6 +19,9 @@
 + International Conference on Computer Communications (INFOCOM)
 + International Conference on Automated Software Engineering (ASE)
 + ACM Web Conference (WWW)
++ International Conference on the Theory and Applications of Cryptographic Techniques (Eurocrypt)
++ European Symposium on Security and Privacy (EuroS&P)
++ International Conference on Distributed Computing Systems (ICDCS)
 
 
 
