@@ -57,4 +57,4 @@
 ## Cryptocurrency Wallet
 [User Perception Survey] Of Secrets and Seedphrases: Conceptual Misunderstandings and Security Challenges for Seed Phrase Management among Cryptocurrency Users. (2025, CHI Conference on Human Factors in Computing Systems)
 
-[BrainWallet] The One Bitcoin Heist : Making a custom Hashcat plugin to solve a decade-old puzzle challenge (2025, DEFCON Presentation)
+[BrainWallet] The One Bitcoin Heist : Making a custom Hashcat plugin to solve a decade-old puzzle challenge (2025, DEFCON 33 Presentation)
