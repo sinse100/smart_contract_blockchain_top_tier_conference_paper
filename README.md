@@ -52,7 +52,8 @@
 ## PoW Security/Privacy
 
 ## DApp (Decentralized Application)
-
++ [NFT] Mft:Malicious Fungible Tokens (2024, DEFCON 32 Adversary Vilage)
++ [Web3] Web2 Meets Web3 Hacking Decentralized Applications
 
 ## Cryptocurrency Wallet
 [User Perception Survey] Of Secrets and Seedphrases: Conceptual Misunderstandings and Security Challenges for Seed Phrase Management among Cryptocurrency Users. (2025, CHI Conference on Human Factors in Computing Systems)
