@@ -14,6 +14,7 @@
 + International Symposium on Software Testing and Analysis
 + International Conference on Software Engineering
 + CHI Conference on Human Factors in Computing Systems
++ International Conference on Dependable Systems and Networks
 
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
