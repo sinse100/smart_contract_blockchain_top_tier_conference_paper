@@ -43,6 +43,7 @@
 ## Blockchain/Smart Contract Security/Privacy
 + [Consensus Security] Majority is not enough: Bitcoin mining is vulnerable (2014, Financial Cryptography and Data Security)
 + [Blockchain Privacy] A fistful of Bitcoins:  characterizing payments among men with no names (2013, conference on Internet measurement conference)
++ [smart contract] Modal Abstractions for Smart Contract Validation (MODELS 2025)
 
 
 ## DeFi (Decentralized Finance)
