@@ -87,6 +87,14 @@
 + Accountable Liveness
 + KZH-Fold: Accountable Voting from Sublinear Accumulation
 
+## S&P
+### 2025
++ Constant latency and finality for dynamically available DAG
++ Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)
++ A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms
++ Warning! The Timeout T Cannot Protect You From Losing Coins, PipeSwap: Forcing the Timely Release of a Secret for Atomic Cross-Chain Swaps
++ Ring Referral: Efficient Publicly Verifiable Ad hoc Credential Scheme with Issuer and Strong User Anonymity for Decentralized Identity and More
+
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
 + [Ethereum] Ethereum Whitepaper (2014)
