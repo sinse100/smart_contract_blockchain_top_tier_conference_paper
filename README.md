@@ -70,6 +70,12 @@
 + Recover from Excessive Faults in Partially-Synchronous BFT SMR
 + Thunderdome: Timelock-Free Rationally-Secure Virtual Channels
 
+## CCS
+### 2025
++ Forking the RANDAO: Manipulating Ethereum's Distributed Randomness Beacon (Distinguished Paper Award)
++ 
+
+
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
 + [Ethereum] Ethereum Whitepaper (2014)
