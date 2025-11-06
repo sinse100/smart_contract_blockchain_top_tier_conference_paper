@@ -36,16 +36,16 @@
 ## NDSS
 ### 2025
 + The Forking Way: When TEEs Meet Consensus
-+ PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation
++ PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation (Distinguished Paper) 
 + Mysticeti: Reaching the Latency Limits with Uncertified DAGs
-+ Eclipse Attacks on Monero's Peer-to-Peer Network
++ Eclipse Attacks on Monero's Peer-to-Peer Network 
 + Alba: The Dawn of Scalable Bridges for Blockchains
 + Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection
-+  Siniel: Distributed Privacy-Preserving zkSNARK
-+  Manifoldchain: Maximizing Blockchain Throughput via Bandwidth-Clustered Sharding
-+  Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead
-+  Dissecting Payload-based Transaction Phishing on Ethereum
-+  MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers
++ Siniel: Distributed Privacy-Preserving zkSNARK
++ Manifoldchain: Maximizing Blockchain Throughput via Bandwidth-Clustered Sharding
++ Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead
++ Dissecting Payload-based Transaction Phishing on Ethereum
++ MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers
 
 ## USENIX Security
 ### 2025
