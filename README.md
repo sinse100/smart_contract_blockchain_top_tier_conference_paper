@@ -13,7 +13,7 @@
 + Internet Measurement Conference (IMC)
 + International Symposium on Software Testing and Analysis (ISSTA)
 + International Conference on Software Engineering (ICSE)
-+ CHI Conference on Human Factors in Computing Systems
++ Conference on Human Factors in Computing Systems (CHI)
 + International Conference on Dependable Systems and Networks (DSN)
 + International Symposium on Research in Attacks, Intrusions and Defenses (RAID)
 + International Conference on Computer Communications (INFOCOM)
@@ -25,7 +25,7 @@
 + Economics and Computation (EC)
 + Crypto
 + DEFCON
-+ MODELS
++ International Conference on Model Driven Engineering Languages and Systems (MODELS)
 + ASIA Conference on Computer and Communications Security (Asia CCS)
 + Conference on Data and Application Security and Privacy (CODASPY)
 + European Symposium on Research in Computer Security (ESORICS)
