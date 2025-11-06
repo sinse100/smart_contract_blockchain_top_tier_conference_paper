@@ -57,6 +57,18 @@
 + Auspex: Unveiling Inconsistency Bugs of Transaction Fee Mechanism in Blockchain
 + Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue
 + SoK: Understanding zk-SNARKs: The Gap Between Research and Practice
++ Blockchain Address Poisoning
++ Approve Once, Regret Forever: On the Exploitation of Ethereum's Approve-TransferFrom Ecosystem
++ Let's Move2EVM
++ Ghost Clusters: Evaluating Attribution of Illicit Services through Cryptocurrency Tracing
++ CollisionRepair: First-Aid and Automated Patching for Storage Collision Vulnerabilities in Smart Contracts
++ On the Atomicity and Efficiency of Blockchain Payment Channels
++ Parallelizing Universal Atomic Swaps for Multi-Chain Cryptocurrency Exchanges
++ Automated Soundness and Completeness Vetting of Polygon zkEVM
++ Does Finality Gadget Finalize Your Block? A Case Study of Binance Consensus
++ TockOwl: Asynchronous Consensus with Fault and Network Adaptability
++ Recover from Excessive Faults in Partially-Synchronous BFT SMR
++ Thunderdome: Timelock-Free Rationally-Secure Virtual Channels
 
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
