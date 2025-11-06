@@ -73,8 +73,19 @@
 ## CCS
 ### 2025
 + Forking the RANDAO: Manipulating Ethereum's Distributed Randomness Beacon (Distinguished Paper Award)
-+ 
-
++ SyRA: Sybil-Resilient Anonymous Signatures with Applications to Decentralized Identity
++ QV-net: Decentralized Self-Tallying Quadratic Voting with Maximal Ballot Secrecy
++ Bitcoin Under Volatile Block Rewards: How Mempool Statistics Can Influence Bitcoin Mining
++ Aegis: Tethering a Blockchain with Primary-Chain Stake
++ On Frontrunning Risks in Batch-Order Fair Systems for Blockchains
++ How to Beat Nakamoto in the Race
++ Elastic Restaking Networks
++ Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee
++ Denial of Sequencing Attacks in Ethereum Layer 2 Rollups
++ Towards a Formal Foundation for Blockchain ZK Rollups
++ Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience
++ Accountable Liveness
++ KZH-Fold: Accountable Voting from Sublinear Accumulation
 
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
