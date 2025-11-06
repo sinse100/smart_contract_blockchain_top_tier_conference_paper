@@ -94,6 +94,12 @@
 + A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms
 + Warning! The Timeout T Cannot Protect You From Losing Coins, PipeSwap: Forcing the Timely Release of a Secret for Atomic Cross-Chain Swaps
 + Ring Referral: Efficient Publicly Verifiable Ad hoc Credential Scheme with Issuer and Strong User Anonymity for Decentralized Identity and More
++ Decentralization of Ethereum's Builder Market
++ Vitārit: Paying for Threshold Services on Bitcoin and Friends
++ Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and Application to Stateless Blockchains
++ Peer2PIR: Private Queries for IPFS
++ An Attack on TON’s ADNL Secure Channel Protocol
++ Liquefaction: Privately Liquefying Blockchain Assets 
 
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
