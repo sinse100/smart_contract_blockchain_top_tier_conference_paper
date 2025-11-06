@@ -47,7 +47,16 @@
 +  Dissecting Payload-based Transaction Phishing on Ethereum
 +  MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers
 
-### 2024
+## USENIX Security
+### 2025
++ Surviving in Dark Forest: Towards Evading the Attacks from Front-Running Bots in Application Layer
++ Voting-Bloc Entropy: A New Metric for DAO Decentralization
++ Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake
++ BEAT-MEV: Epochless Approach to Batched Threshold Encryption for MEV Prevention
++ Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks
++ Auspex: Unveiling Inconsistency Bugs of Transaction Fee Mechanism in Blockchain
++ Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue
++ SoK: Understanding zk-SNARKs: The Gap Between Research and Practice
 
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
