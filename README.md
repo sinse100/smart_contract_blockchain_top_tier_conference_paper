@@ -105,6 +105,7 @@
 + P2C2T: Preserving the Privacy of Cross-Chain Transfer
 + Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem
 + TreePIR: Efficient Private Retrieval of Merkle Proofs via Tree Colorings with Fast Indexing and Zero Storage Overhead
++ Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs
 
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
