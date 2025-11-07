@@ -99,7 +99,12 @@
 + Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and Application to Stateless Blockchains
 + Peer2PIR: Private Queries for IPFS
 + An Attack on TON’s ADNL Secure Channel Protocol
-+ Liquefaction: Privately Liquefying Blockchain Assets 
++ Liquefaction: Privately Liquefying Blockchain Assets
++ Sailfish: Towards Improving the Latency of DAG-based BFT
++ Phecda: Post-Quantum Transparent zkSNARKs from Improved Polynomial Commitment and VOLE-in-the-Head with Application in Publicly Verifiable AES
++ P2C2T: Preserving the Privacy of Cross-Chain Transfer
++ Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem
++ TreePIR: Efficient Private Retrieval of Merkle Proofs via Tree Colorings with Fast Indexing and Zero Storage Overhead
 
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
