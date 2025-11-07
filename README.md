@@ -107,6 +107,15 @@
 + TreePIR: Efficient Private Retrieval of Merkle Proofs via Tree Colorings with Fast Indexing and Zero Storage Overhead
 + Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs
 
+## CRYPTO
+### 2025
++ Merkle Mountain Ranges are Optimal: On the Witness Update Frequency of Cryptographic Accumulators
++ Foundations of Platform-Assisted Auctions
++ State Machine Replication Among Strangers, Fast and Self-Sufficient
++ High-Throughput Permissionless Blockchain Consensus under Realistic Network Assumptions
+
+
+
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
 + [Ethereum] Ethereum Whitepaper (2014)
