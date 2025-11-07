@@ -36,7 +36,7 @@
 ## NDSS
 ### 2025
 + The Forking Way: When TEEs Meet Consensus
-+ PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation (Distinguished Paper) 
++ *PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation (Distinguished Paper)* 
 + Mysticeti: Reaching the Latency Limits with Uncertified DAGs
 + Eclipse Attacks on Monero's Peer-to-Peer Network 
 + Alba: The Dawn of Scalable Bridges for Blockchains
