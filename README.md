@@ -72,7 +72,7 @@
 
 ## CCS
 ### 2025
-+ Forking the RANDAO: Manipulating Ethereum's Distributed Randomness Beacon (Distinguished Paper Award)
++ **Forking the RANDAO: Manipulating Ethereum's Distributed Randomness Beacon (Distinguished Paper Award)**
 + SyRA: Sybil-Resilient Anonymous Signatures with Applications to Decentralized Identity
 + QV-net: Decentralized Self-Tallying Quadratic Voting with Maximal Ballot Secrecy
 + Bitcoin Under Volatile Block Rewards: How Mempool Statistics Can Influence Bitcoin Mining
