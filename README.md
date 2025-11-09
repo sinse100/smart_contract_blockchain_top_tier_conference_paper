@@ -32,7 +32,6 @@
 + Annual Computer Security Applications Conference (ACSAC)
 + Privacy Enhancing Technologies Symposium (PETS)
 + Computer Security Foundations Symposium (CSF)
-+ International Conference on Distributed Computing Systems (ICDCS)
 
 ## NDSS
 ### 2025
