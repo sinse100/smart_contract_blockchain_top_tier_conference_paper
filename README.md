@@ -115,6 +115,21 @@
 + High-Throughput Permissionless Blockchain Consensus under Realistic Network Assumptions
 
 
+## ASE
+### 2025
++ SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking
++ Democratizing the Cryptocurrency Ecosystem by Just-In-Time Transformation of Mining Programs
++ Leveraging Mixture-of-Experts Framework for Smart Contract Vulnerability Repair with Large Language Model
++ Why Is My Transaction Risky? Understanding Smart Contract Semantics and Interactions in the NFT Ecosystem
++ Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts
++ PROMFUZZ: Leveraging LLM-Driven and Bug-Oriented Composite Analysis for Detecting Functional Bugs in Smart Contracts
++ VeriExploit: Automatic Bug Reproduction in Smart Contracts via LLMs and Formal Methods
++ SolContractEval: A Benchmark for Evaluating Contract-Level Solidity Code Generation
++ PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation
++ Soleker: Uncovering Vulnerabilities in Solana Smart Contracts
++ Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study
+
+
 
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
