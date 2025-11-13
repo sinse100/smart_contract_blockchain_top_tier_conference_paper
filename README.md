@@ -211,17 +211,17 @@
 
 ## ASIACCS
 ### 2025
-+ Fast SNARK-based Non-Interactive Distributed Verifiable Random Function with Ethereum Compatibility
-+ An Empirical Study on Cross-chain Transactions: Costs, Inconsistencies, and Activities
-+ BIP32-Compatible Threshold Wallets
-+ VeRange: Verification-efficient Zero-knowledge Range Arguments with Transparent Setup for Blockchain Applications and More
-+ DTL: Data Tumbling Layer A Composable Unlinkability for Smart Contracts
-+ Pace: Privacy-preserving and Atomic Cross-chain Swaps for Cryptocurrency Exchanges
-+ BRC20 Snipping Attack
-+ poqeth: Efficient, post-quantum signature verification on Ethereum
-+ Infiltrated Selfish Mining: Think Win-Win to Escape Dilemmas
-+ FIRST: FrontrunnIng Resistant Smart ConTracts
-+ Mining Attack with Zero Knowledge in the Blockchain
++ [security/privacy] Fast SNARK-based Non-Interactive Distributed Verifiable Random Function with Ethereum Compatibility
++ [security/privacy] An Empirical Study on Cross-chain Transactions: Costs, Inconsistencies, and Activities
++ [security/privacy] BIP32-Compatible Threshold Wallets
++ [security/privacy] VeRange: Verification-efficient Zero-knowledge Range Arguments with Transparent Setup for Blockchain Applications and More
++ [security/privacy] DTL: Data Tumbling Layer A Composable Unlinkability for Smart Contracts
++ [security/privacy] Pace: Privacy-preserving and Atomic Cross-chain Swaps for Cryptocurrency Exchanges
++ [security/privacy] BRC20 Snipping Attack
++ [security/privacy] poqeth: Efficient, post-quantum signature verification on Ethereum
++ [security/privacy] Infiltrated Selfish Mining: Think Win-Win to Escape Dilemmas
++ [security/privacy] FIRST: FrontrunnIng Resistant Smart ConTracts
++ [security/privacy] Mining Attack with Zero Knowledge in the Blockchain
 
   
 ## Blockchain 101
