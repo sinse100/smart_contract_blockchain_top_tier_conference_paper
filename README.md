@@ -2,6 +2,7 @@
 
 # List of Top Tier Journal
 + Distributed Ledger Technologies: Research and Practice
++ Transactions on Information Forensics and Security
 
 # List of Top Tier Conference
 + Financial Cryptography and Data Security (FC)
