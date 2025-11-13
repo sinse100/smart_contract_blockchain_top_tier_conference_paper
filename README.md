@@ -1,6 +1,7 @@
 # smart_contract_blockchain_paper
 
-
+# List of Top Tier Journal
++ Distributed Ledger Technologies: Research and Practice
 
 # List of Top Tier Conference
 + Financial Cryptography and Data Security (FC)
