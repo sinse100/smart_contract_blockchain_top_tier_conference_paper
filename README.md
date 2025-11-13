@@ -198,15 +198,14 @@
 + Transaction Fee Market Design for Parallel Execution
 + Multidimensional Blockchain Fees are (Essentially) Optimal
 + The Exchange Problem
-+ Measuring CEX-DEX Extracted Value and Searcher Profitability: The Darkest of the MEV Dark Forest
-+ Unraveling the Probabilistic Forest: Arbitrage in Prediction Markets
-+ Optimistic MEV in Ethereum Layer 2s: Why Blockspace Is Always in Demand
++ [security/privacy] Measuring CEX-DEX Extracted Value and Searcher Profitability: The Darkest of the MEV Dark Forest
++ [security/privacy] Unraveling the Probabilistic Forest: Arbitrage in Prediction Markets
++ [security/privacy] Optimistic MEV in Ethereum Layer 2s: Why Blockspace Is Always in Demand
 + Efficient Parallel Execution of Blockchain Transactions Leveraging Conflict Specifications
 + Ticket to Ride: Locally Steered Source Routing for the Lightning Network
-+ Trustless Bridges via Random Sampling Light Clients
-+ 4-Swap: Achieving Grief-Free and Bribery-Safe Atomic Swaps Using Four Transactions
-+ Cuttlefish: A Fair, Predictable Execution Environment for Cloud-hosted Financial Exchanges
-+ pvpAMM: A perpetual market for unbalanced long-short positions
++ [security/privacy] Trustless Bridges via Random Sampling Light Clients
++ [security/privacy] 4-Swap: Achieving Grief-Free and Bribery-Safe Atomic Swaps Using Four Transactions
++ [security/privacy] pvpAMM: A perpetual market for unbalanced long-short positions
 + [security/privacy] On-Chain Decentralized Learning and Cost-effective Inference for DeFi Attack Mitigation
 
 ## ASIACCS
