@@ -175,6 +175,38 @@
 + Short Paper: Rewardable Naysayer Proofs
 + The Latency Price of Threshold Cryptosystem in Blockchains
 
+## AFT
+### 2025
++ Cache Timing Leakages in Zero-Knowledge Protocols
++ Zero-knowledge Authenticator for Blockchain: Policy-private and Obliviously Updateable
++ Fast, private and regulated payments in asynchronous networks
++ Proxying Is Enough: Security of Proxying in TLS Oracles and AEAD Context Unforgeability
++ Blockchain Governance via Sharp Anonymous Multisignatures
++ How Much Public Randomness Do Modern Consensus Protocols Need?
++ Composable Byzantine Agreements with Reorder Attacks
++ From Permissioned to Proof-of-Stake Consensus
++ Fully-Fluctuating Participation in Sleepy Consensus
++ Nakamoto Consensus from Multiple Resources
++ Two-tier Black-box Blockchains and Application to Instant Layer-1 Payments
++ Beyond Optimal Fault-Tolerance
++ Optimistic Message Dissemination
++ Selfish Mining under General Stochastic Rewards
++ Pool Formation in Oceanic Games: Shapley Value and Proportional Sharing
++ Single-token vs Two-token Blockchain Tokenomics
++ Transaction Fee Market Design for Parallel Execution
++ Multidimensional Blockchain Fees are (Essentially) Optimal
++ The Exchange Problem
++ Measuring CEX-DEX Extracted Value and Searcher Profitability: The Darkest of the MEV Dark Forest
++ Unraveling the Probabilistic Forest: Arbitrage in Prediction Markets
++ Optimistic MEV in Ethereum Layer 2s: Why Blockspace Is Always in Demand
++ Efficient Parallel Execution of Blockchain Transactions Leveraging Conflict Specifications
++ Ticket to Ride: Locally Steered Source Routing for the Lightning Network
++ Trustless Bridges via Random Sampling Light Clients
++ 4-Swap: Achieving Grief-Free and Bribery-Safe Atomic Swaps Using Four Transactions
++ Cuttlefish: A Fair, Predictable Execution Environment for Cloud-hosted Financial Exchanges
++ pvpAMM: A perpetual market for unbalanced long-short positions
++ On-Chain Decentralized Learning and Cost-effective Inference for DeFi Attack Mitigation
+
 
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
