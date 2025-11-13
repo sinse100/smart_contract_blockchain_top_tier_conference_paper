@@ -187,13 +187,13 @@
 + [security/privacy] How Much Public Randomness Do Modern Consensus Protocols Need?
 + [security/privacy] Composable Byzantine Agreements with Reorder Attacks
 + [security/privacy] From Permissioned to Proof-of-Stake Consensus
-+ Fully-Fluctuating Participation in Sleepy Consensus
-+ Nakamoto Consensus from Multiple Resources
-+ Two-tier Black-box Blockchains and Application to Instant Layer-1 Payments
++ [security/privacy] Fully-Fluctuating Participation in Sleepy Consensus
++ [security/privacy] Nakamoto Consensus from Multiple Resources
++ [security/privacy] Two-tier Black-box Blockchains and Application to Instant Layer-1 Payments
 + Beyond Optimal Fault-Tolerance
-+ Optimistic Message Dissemination
-+ Selfish Mining under General Stochastic Rewards
-+ Pool Formation in Oceanic Games: Shapley Value and Proportional Sharing
++ [security/privacy] Optimistic Message Dissemination
++ [security/privacy] Selfish Mining under General Stochastic Rewards
++ [security/privacy] Pool Formation in Oceanic Games: Shapley Value and Proportional Sharing
 + Single-token vs Two-token Blockchain Tokenomics
 + Transaction Fee Market Design for Parallel Execution
 + Multidimensional Blockchain Fees are (Essentially) Optimal
