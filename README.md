@@ -130,6 +130,16 @@
 + Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study
 + evalSmarT: An LLM-Based Evaluation Framework for Smart Contract Comment Generation​
 + PROXiFY: A Bytecode Analysis Tool for Detecting and Classifying Proxy Contracts in Ethereum Smart Contracts
++ Detecting Various DeFi Price Manipulations with LLM Reasoning
++ Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation
++ ACTaint: Agent-Based Taint Analysis for Access Control Vulnerabilities in Smart Contracts
++ Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation
++ The Gold Digger in the Dark Forest: Industrial-Scale MEV Analysis in Ethereum
++ FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization
++ Finding Insecure State Dependency in DApps via Multi-Source Tracing and Semantic Enrichment
++ ScaleCirc: Scaling the Analysis over Circom Circuits
+
+
 
 
 
