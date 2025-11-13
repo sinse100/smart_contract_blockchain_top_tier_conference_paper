@@ -179,14 +179,14 @@
 
 ## AFT
 ### 2025
-+ Cache Timing Leakages in Zero-Knowledge Protocols
-+ Zero-knowledge Authenticator for Blockchain: Policy-private and Obliviously Updateable
-+ Fast, private and regulated payments in asynchronous networks
-+ Proxying Is Enough: Security of Proxying in TLS Oracles and AEAD Context Unforgeability
-+ Blockchain Governance via Sharp Anonymous Multisignatures
-+ How Much Public Randomness Do Modern Consensus Protocols Need?
-+ Composable Byzantine Agreements with Reorder Attacks
-+ From Permissioned to Proof-of-Stake Consensus
++ [security/privacy] Cache Timing Leakages in Zero-Knowledge Protocols
++ [security/privacy] Zero-knowledge Authenticator for Blockchain: Policy-private and Obliviously Updateable
++ [security/privacy] Fast, private and regulated payments in asynchronous networks
++ [security/privacy] Proxying Is Enough: Security of Proxying in TLS Oracles and AEAD Context Unforgeability
++ [security/privacy] Blockchain Governance via Sharp Anonymous Multisignatures
++ [security/privacy] How Much Public Randomness Do Modern Consensus Protocols Need?
++ [security/privacy] Composable Byzantine Agreements with Reorder Attacks
++ [security/privacy] From Permissioned to Proof-of-Stake Consensus
 + Fully-Fluctuating Participation in Sleepy Consensus
 + Nakamoto Consensus from Multiple Resources
 + Two-tier Black-box Blockchains and Application to Instant Layer-1 Payments
@@ -207,7 +207,7 @@
 + 4-Swap: Achieving Grief-Free and Bribery-Safe Atomic Swaps Using Four Transactions
 + Cuttlefish: A Fair, Predictable Execution Environment for Cloud-hosted Financial Exchanges
 + pvpAMM: A perpetual market for unbalanced long-short positions
-+ On-Chain Decentralized Learning and Cost-effective Inference for DeFi Attack Mitigation
++ [security/privacy] On-Chain Decentralized Learning and Cost-effective Inference for DeFi Attack Mitigation
 
 ## ASIACCS
 ### 2025
