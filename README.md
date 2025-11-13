@@ -91,23 +91,23 @@
 
 ## S&P
 ### 2025
-+ Constant latency and finality for dynamically available DAG
-+ Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)
-+ A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms
-+ Warning! The Timeout T Cannot Protect You From Losing Coins, PipeSwap: Forcing the Timely Release of a Secret for Atomic Cross-Chain Swaps
-+ Ring Referral: Efficient Publicly Verifiable Ad hoc Credential Scheme with Issuer and Strong User Anonymity for Decentralized Identity and More
-+ Decentralization of Ethereum's Builder Market
-+ Vitārit: Paying for Threshold Services on Bitcoin and Friends
-+ Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and Application to Stateless Blockchains
-+ Peer2PIR: Private Queries for IPFS
-+ An Attack on TON’s ADNL Secure Channel Protocol
-+ Liquefaction: Privately Liquefying Blockchain Assets
-+ Sailfish: Towards Improving the Latency of DAG-based BFT
-+ Phecda: Post-Quantum Transparent zkSNARKs from Improved Polynomial Commitment and VOLE-in-the-Head with Application in Publicly Verifiable AES
-+ P2C2T: Preserving the Privacy of Cross-Chain Transfer
-+ Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem
-+ TreePIR: Efficient Private Retrieval of Merkle Proofs via Tree Colorings with Fast Indexing and Zero Storage Overhead
-+ Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs
++ [security/privacy] Constant latency and finality for dynamically available DAG
++ [security/privacy] Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)
++ [security/privacy] A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms
++ [security/privacy] Warning! The Timeout T Cannot Protect You From Losing Coins, PipeSwap: Forcing the Timely Release of a Secret for Atomic Cross-Chain Swaps
++ [security/privacy] Ring Referral: Efficient Publicly Verifiable Ad hoc Credential Scheme with Issuer and Strong User Anonymity for Decentralized Identity and More
++ [security/privacy] Decentralization of Ethereum's Builder Market
++ [security/privacy] Vitārit: Paying for Threshold Services on Bitcoin and Friends
++ [security/privacy] Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and Application to Stateless Blockchains
++ [security/privacy] Peer2PIR: Private Queries for IPFS
++ [security/privacy] An Attack on TON’s ADNL Secure Channel Protocol
++ [security/privacy] Liquefaction: Privately Liquefying Blockchain Assets
++ [security/privacy] Sailfish: Towards Improving the Latency of DAG-based BFT
++ [security/privacy] Phecda: Post-Quantum Transparent zkSNARKs from Improved Polynomial Commitment and VOLE-in-the-Head with Application in Publicly Verifiable AES
++ [security/privacy] P2C2T: Preserving the Privacy of Cross-Chain Transfer
++ [security/privacy] Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem
++ [security/privacy] TreePIR: Efficient Private Retrieval of Merkle Proofs via Tree Colorings with Fast Indexing and Zero Storage Overhead
++ [security/privacy] Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs
 
 ## CRYPTO
 ### 2025
@@ -119,11 +119,11 @@
 
 ## ASE
 ### 2025
-+ SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking
++ [security/privacy]SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking
 + Democratizing the Cryptocurrency Ecosystem by Just-In-Time Transformation of Mining Programs
-+ Leveraging Mixture-of-Experts Framework for Smart Contract Vulnerability Repair with Large Language Model
++ [security/privacy] Leveraging Mixture-of-Experts Framework for Smart Contract Vulnerability Repair with Large Language Model
 + Why Is My Transaction Risky? Understanding Smart Contract Semantics and Interactions in the NFT Ecosystem
-+ Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts
++ [security/privacy] Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts
 + PROMFUZZ: Leveraging LLM-Driven and Bug-Oriented Composite Analysis for Detecting Functional Bugs in Smart Contracts
 + VeriExploit: Automatic Bug Reproduction in Smart Contracts via LLMs and Formal Methods
 + SolContractEval: A Benchmark for Evaluating Contract-Level Solidity Code Generation
