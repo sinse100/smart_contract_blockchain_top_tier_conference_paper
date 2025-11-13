@@ -207,7 +207,13 @@
 + pvpAMM: A perpetual market for unbalanced long-short positions
 + On-Chain Decentralized Learning and Cost-effective Inference for DeFi Attack Mitigation
 
-
+## ASIACCS
+### 2025
++ Fast SNARK-based Non-Interactive Distributed Verifiable Random Function with Ethereum Compatibility
++ An Empirical Study on Cross-chain Transactions: Costs, Inconsistencies, and Activities
++ BIP32-Compatible Threshold Wallets
++ VeRange: Verification-efficient Zero-knowledge Range Arguments with Transparent Setup for Blockchain Applications and More
+  
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
 + [Ethereum] Ethereum Whitepaper (2014)
