@@ -128,6 +128,8 @@
 + PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation
 + Soleker: Uncovering Vulnerabilities in Solana Smart Contracts
 + Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study
++ evalSmarT: An LLM-Based Evaluation Framework for Smart Contract Comment Generation​
++ PROXiFY: A Bytecode Analysis Tool for Detecting and Classifying Proxy Contracts in Ethereum Smart Contracts
 
 
 
