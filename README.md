@@ -139,8 +139,41 @@
 + Finding Insecure State Dependency in DApps via Multi-Source Tracing and Semantic Enrichment
 + ScaleCirc: Scaling the Analysis over Circom Circuits
 
-
-
+## FC
+### 2025
++ A Formally Verified Lightning Network
++ Strengthening Multi-hop Channels via Strategic Mesh Connections
++ IvyAPC: Auditable Generalized Payment Channels
++ A Framework for Transaction Posting and Pricing for Layer 2 Blockchains
++ X-Transfer: Enabling and Optimizing Cross-PCN Transactions
++ Verifying Jolt zkVM Lookup Semantics
++ Prooφ: A ZKP Market Mechanism
++ SoK: Trusted setups for powers-of-tau strings
++ Short Paper: Curve Forests: Transparent Zero-Knowledge Set Membership with Batching and Strong Security
++ A Composability Treatment of Bitcoin's Transaction Ledger with Variable Difficulty
++ Rapidash: Atomic Swaps Secure under User-Miner Collusion
++ Serial Monopoly on Blockchains with Quasi-patient Users
++ Pilotfish: Distributed Execution for Scalable Blockchains
++ Anthemius: Efficient & Modular Block Assembly for Concurrent Execution
++ Communication and Round Efficient Parallel Broadcast Protocols
++ Towards Optimal Parallel Broadcast under a Dishonest Majority
++ Leveraging Homomorphic Encryption for Maximally Extractable Value (MEV) Mitigation: Enabling Blind Arbitrage on Decentralised Exchanges
++ Piercing the Veil of TVL: DeFi Reappraised
++ Transaction Fee Mechanism Design for Leaderless Blockchain Protocols
++ Seahorse: Efficiently Mixing Encrypted and Normal Transactions
++ The Early Days of the Ethereum Blob Fee Market and Lessons Learnt
++ Quantifying the Value of Revert Protection
++ Frosty: Bringing strong liveness guarantees to the Snow family of consensus protocols
++ Consensus Under Adversary Majority Done Right
++ On the (in)security of Proofs-of-Space based Longest-Chain Blockchains
++ Constellation: Peer-to-Peer Overlays for Federated Byzantine Agreement Systems
++ Short Paper: A New Way to Achieve Round-Efficient Asynchronous Byzantine Agreement
++ Blink: An Optimal Proof of Proof-of-Work
++ Reward Schemes and Committee Sizes in Proof of Stake Governance
++ Mining Power Destruction Attacks in the Presence of Petty-Compliant Mining Pools
++ A theoretical basis for MEV
++ Short Paper: Rewardable Naysayer Proofs
++ The Latency Price of Threshold Cryptosystem in Blockchains
 
 
 ## Blockchain 101
