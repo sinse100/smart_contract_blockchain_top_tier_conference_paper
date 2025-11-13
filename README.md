@@ -213,6 +213,14 @@
 + An Empirical Study on Cross-chain Transactions: Costs, Inconsistencies, and Activities
 + BIP32-Compatible Threshold Wallets
 + VeRange: Verification-efficient Zero-knowledge Range Arguments with Transparent Setup for Blockchain Applications and More
++ DTL: Data Tumbling Layer A Composable Unlinkability for Smart Contracts
++ Pace: Privacy-preserving and Atomic Cross-chain Swaps for Cryptocurrency Exchanges
++ BRC20 Snipping Attack
++ poqeth: Efficient, post-quantum signature verification on Ethereum
++ Infiltrated Selfish Mining: Think Win-Win to Escape Dilemmas
++ FIRST: FrontrunnIng Resistant Smart ConTracts
++ Mining Attack with Zero Knowledge in the Blockchain
+
   
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
