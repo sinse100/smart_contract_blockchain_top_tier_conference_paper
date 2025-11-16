@@ -3,6 +3,7 @@
 # List of Top Tier Journal
 + Distributed Ledger Technologies: Research and Practice
 + Transactions on Information Forensics and Security
++ ACM Computing Surveys
 
 # List of Top Tier Conference
 + Financial Cryptography and Data Security (FC)
@@ -25,7 +26,7 @@
 + European Symposium on Security and Privacy (EuroS&P)
 + International Conference on Distributed Computing Systems (ICDCS)
 + Economics and Computation (EC)
-+ Crypto
++ International Cryptology Conference (CRYPTO)
 + DEFCON
 + International Conference on Model Driven Engineering Languages and Systems (MODELS)
 + ASIA Conference on Computer and Communications Security (Asia CCS)
