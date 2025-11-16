@@ -2,10 +2,11 @@
 
 # List of Top Tier Journal
 + Distributed Ledger Technologies: Research and Practice
-+ Transactions on Information Forensics and Security (TIFS)
++ IEEE Transactions on Information Forensics and Security (TIFS)
 + ACM Computing Surveys
-+ Transactions on Software Engineering (TSE)
++ IEEE Transactions on Software Engineering (TSE)
 + Empirical Software Engineering (EMSE)
++ IEEE Transactions on Dependable and Secure Computing (TDSC)
 
 # List of Top Tier Conference
 + Financial Cryptography and Data Security (FC)
