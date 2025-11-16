@@ -231,6 +231,14 @@
 ### 2024
 ### 2023
 
+## CHI
+### 2025
++ Using Affordance to Understand Usability of Web3 Social Media
++ Understanding End-User Perception of Transfer Risks in Smart Contracts
++ Of Secrets and Seedphrases: Conceptual Misunderstandings and Security Challenges for Seed Phrase Management among Cryptocurrency Users.
+
+### 2024
+### 2023
 
 ## ACM Computing Surveys
 ### 2025
@@ -287,6 +295,4 @@
 + [Web3] Web2 Meets Web3 Hacking Decentralized Applications (2024, DEFCON 32 AppSec Vilage)
 
 ## Cryptocurrency Wallet
-[User Perception Survey] Of Secrets and Seedphrases: Conceptual Misunderstandings and Security Challenges for Seed Phrase Management among Cryptocurrency Users. (2025, CHI Conference on Human Factors in Computing Systems)
-
 [BrainWallet] The One Bitcoin Heist : Making a custom Hashcat plugin to solve a decade-old puzzle challenge (2025, DEFCON 33 Presentation)
