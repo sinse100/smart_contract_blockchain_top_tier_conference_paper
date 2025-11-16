@@ -223,6 +223,12 @@
 + [security/privacy] FIRST: FrontrunnIng Resistant Smart ConTracts
 + [security/privacy] Mining Attack with Zero Knowledge in the Blockchain
 
+## WWW
+### 2025
+### 2024
+### 2023
+
+
 ## ACM Computing Surveys
 ### 2025
 + [security/privacy] Blockchain Smart Contract Security: Threats and Mitigation Strategies in a Lifecycle Perspective
