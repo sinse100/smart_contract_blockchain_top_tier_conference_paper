@@ -223,7 +223,23 @@
 + [security/privacy] FIRST: FrontrunnIng Resistant Smart ConTracts
 + [security/privacy] Mining Attack with Zero Knowledge in the Blockchain
 
-  
+## ACM Computing Surveys
+### 2025
++ [security/privacy] Blockchain Smart Contract Security: Threats and Mitigation Strategies in a Lifecycle Perspective
+### 2024
++ [security/privacy] Security Aspects of Cryptocurrency Wallets - A Systematic Literature Review
++ [security/privacy] Survey on Secure Keyword Search over Outsourced Data: From Cloud to Blockchain-assisted Architecture
++ [security/privacy] On Identity, Transaction, and Smart Contract Privacy on Permissioned and Permissionless Blockchain: A Comprehensive Survey
++ [security/privacy] An All-Inclusive Taxonomy and Critical Review of Blockchain-Assisted Authentication and Session Key Generation Protocols for IoT
++ [security/privacy] Exploiting Blockchain to Make AI Trustworthy: A Software Development Lifecycle View
++ Blockchained Federated Learning for Internet of Things: A Comprehensive Survey
++ Exploring Blockchain Technology through a Modular Lens: A Survey
++ A Survey on Content Retrieval on the Decentralised Web
++ Cross-Chain Smart Contract Invocations: A Systematic Multi-Vocal Literature Review
++ Scaling Blockchains with Error Correction Codes: A Survey on Coded Blockchains
++ Reaching Consensus in the Byzantine Empire: A Comprehensive Review of BFT Consensus Algorithms
++ Economic Systems in the Metaverse: Basics, State of the Art, and Challenges
+
 ## Blockchain 101
 + [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
 + [Ethereum] Ethereum Whitepaper (2014)
