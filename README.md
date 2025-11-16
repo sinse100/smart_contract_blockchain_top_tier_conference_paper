@@ -226,6 +226,14 @@
 ## ACM Computing Surveys
 ### 2025
 + [security/privacy] Blockchain Smart Contract Security: Threats and Mitigation Strategies in a Lifecycle Perspective
++ [security/privacy] Survey on Quality Assurance of Smart Contracts
++ [security/privacy] A Review on Blockchain Technology, Current Challenges, and AI-Driven Solutions
++ [security/privacy] AI-powered Fraud Detection in Decentralized Finance: A Project Life Cycle Perspective
++ [security/privacy] Privacy-preserved and Responsible Recommenders: From Conventional Defense to Federated Learning and Blockchain
++ [security/privacy] Secured Network Architectures Based on Blockchain Technologies: A Systematic Review
++ [security/privacy] Blockchain-Empowered Trustworthy Data Sharing: Fundamentals, Applications, and Challenges
++ Performance Modeling of Public Permissionless Blockchains: A Survey
+
 ### 2024
 + [security/privacy] Security Aspects of Cryptocurrency Wallets - A Systematic Literature Review
 + [security/privacy] Survey on Secure Keyword Search over Outsourced Data: From Cloud to Blockchain-assisted Architecture
