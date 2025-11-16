@@ -5,6 +5,7 @@
 + Transactions on Information Forensics and Security (TIFS)
 + ACM Computing Surveys
 + Transactions on Software Engineering (TSE)
++ Empirical Software Engineering (EMSE)
 
 # List of Top Tier Conference
 + Financial Cryptography and Data Security (FC)
