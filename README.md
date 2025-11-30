@@ -39,6 +39,9 @@
 + Privacy Enhancing Technologies Symposium (PETS)
 + Computer Security Foundations Symposium (CSF)
 + International Workshop on Formal Methods for Blockchains (FMBC)
++ etc
+  +  AAAI Conference on Artificial Intelligence (AAAI)
+  +  Military Communications Conference (MILCOM)
 
 ## NDSS
 ### 2025
