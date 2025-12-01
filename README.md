@@ -31,6 +31,7 @@
 + Economics and Computation (EC)
 + International Cryptology Conference (CRYPTO)
 + DEFCON
++ Blackhat
 + International Conference on Model Driven Engineering Languages and Systems (MODELS)
 + ASIA Conference on Computer and Communications Security (Asia CCS)
 + Conference on Data and Application Security and Privacy (CODASPY)
