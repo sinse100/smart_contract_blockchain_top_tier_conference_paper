@@ -10,12 +10,12 @@
 
 # List of Top Tier Conference
 + Financial Cryptography and Data Security (FC)
-+ ACM Advances in Financial Technologies (AFT)
++ Advances in Financial Technologies (AFT)
 + International Conference on Blockchain and Cryptocurrency (ICBC)
-+ IEEE Security & Privacy (S&P)
++ Security & Privacy (S&P)
 + Network and Distributed System Security (NDSS) Symposium
 + USENIX Security
-+ ACM Conference on Computer and Communications Security (CCS)
++ Conference on Computer and Communications Security (CCS)
 + Internet Measurement Conference (IMC)
 + International Symposium on Software Testing and Analysis (ISSTA)
 + International Conference on Software Engineering (ICSE)
@@ -24,7 +24,7 @@
 + International Symposium on Research in Attacks, Intrusions and Defenses (RAID)
 + International Conference on Computer Communications (INFOCOM)
 + International Conference on Automated Software Engineering (ASE)
-+ ACM Web Conference (WWW)
++ Web Conference (WWW)
 + International Conference on the Theory and Applications of Cryptographic Techniques (Eurocrypt)
 + European Symposium on Security and Privacy (EuroS&P)
 + International Conference on Distributed Computing Systems (ICDCS)
