@@ -48,6 +48,7 @@
   +  NASA Formal Methods Symposium (NFM)
   +  **VirusBulletin**
   +  **International Conference on Common Criteria (ICCC)**
+  + Symposium on Vehicle Security and Privacy (VehicleSec)
 
 ## NDSS
 ### 2025
