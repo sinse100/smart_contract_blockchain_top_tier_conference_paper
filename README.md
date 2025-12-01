@@ -42,7 +42,7 @@
 + etc
   +  AAAI Conference on Artificial Intelligence (AAAI)
   +  Military Communications Conference (MILCOM)
-  +  NASA Formal Methods Symposium (NFM2025)
+  +  NASA Formal Methods Symposium (NFM)
   +  VirusBulletin
 
 ## NDSS
