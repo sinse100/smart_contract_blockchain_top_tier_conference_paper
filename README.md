@@ -1,7 +1,7 @@
 # smart_contract_blockchain_paper
 
 # List of Top Tier Journal
-+ **Distributed Ledger Technologies: Research and Practice**
++ Distributed Ledger Technologies: Research and Practice
 + IEEE Transactions on Information Forensics and Security (TIFS)
 + ACM Computing Surveys
 + IEEE Transactions on Software Engineering (TSE)
@@ -9,45 +9,45 @@
 + IEEE Transactions on Dependable and Secure Computing (TDSC)
 
 # List of Top Tier Conference
-+ **Financial Cryptography and Data Security (FC)**
-+ **Advances in Financial Technologies (AFT)**
-+ **International Conference on Blockchain and Cryptocurrency (ICBC)**
-+ **Security & Privacy (S&P)**
-+ **Network and Distributed System Security (NDSS) Symposium**
-+ **USENIX Security**
-+ **Conference on Computer and Communications Security (CCS)**
++ Financial Cryptography and Data Security (FC)
++ Advances in Financial Technologies (AFT)
++ International Conference on Blockchain and Cryptocurrency (ICBC)
++ Security & Privacy (S&P)
++ Network and Distributed System Security (NDSS) Symposium
++ USENIX Security
++ Conference on Computer and Communications Security (CCS)
 + Internet Measurement Conference (IMC)
 + International Symposium on Software Testing and Analysis (ISSTA)
-+ **International Conference on Software Engineering (ICSE)**
++ International Conference on Software Engineering (ICSE)
 + Conference on Human Factors in Computing Systems (CHI)
-+ **International Conference on Dependable Systems and Networks (DSN)**
++ International Conference on Dependable Systems and Networks (DSN)
 + International Symposium on Research in Attacks, Intrusions and Defenses (RAID)
 + International Conference on Computer Communications (INFOCOM)
-+ **International Conference on Automated Software Engineering (ASE)**
++ International Conference on Automated Software Engineering (ASE)
 + Web Conference (WWW)
-+ **International Conference on the Theory and Applications of Cryptographic Techniques (Eurocrypt)**
++ International Conference on the Theory and Applications of Cryptographic Techniques (Eurocrypt)
 + European Symposium on Security and Privacy (EuroS&P)
 + International Conference on Distributed Computing Systems (ICDCS)
-+ **Economics and Computation (EC)**
-+ **International Cryptology Conference (CRYPTO)**
-+ **DEFCON**
-+ **Blackhat**
++ Economics and Computation (EC)
++ International Cryptology Conference (CRYPTO)
++ DEFCON
++ Blackhat
 + International Conference on Model Driven Engineering Languages and Systems (MODELS)
-+ **ASIA Conference on Computer and Communications Security (Asia CCS)**
-+ **Conference on Data and Application Security and Privacy (CODASPY)**
++ ASIA Conference on Computer and Communications Security (Asia CCS)
++ Conference on Data and Application Security and Privacy (CODASPY)
 + European Symposium on Research in Computer Security (ESORICS)
 + Annual Computer Security Applications Conference (ACSAC)
 + Privacy Enhancing Technologies Symposium (PETS)
 + Computer Security Foundations Symposium (CSF)
 + International Workshop on Formal Methods for Blockchains (FMBC)
-+ **International Conference on the Theory and Application of Cryptology and Information Security (Asiacrypt)**
-+ **Symposium On Usable Privacy and Security (SOUPS)**
++ International Conference on the Theory and Application of Cryptology and Information Security (Asiacrypt)
++ Symposium On Usable Privacy and Security (SOUPS)
 + etc
-  +  AAAI Conference on Artificial Intelligence (AAAI)
-  +  **Military Communications Conference (MILCOM)**
-  +  NASA Formal Methods Symposium (NFM)
-  +  **VirusBulletin**
-  +  **International Conference on Common Criteria (ICCC)**
+  + AAAI Conference on Artificial Intelligence (AAAI)
+  + Military Communications Conference (MILCOM)
+  + NASA Formal Methods Symposium (NFM)
+  + VirusBulletin
+  + International Conference on Common Criteria (ICCC)
   + Symposium on Vehicle Security and Privacy (VehicleSec)
   + International Conference on Cloud Computing (CLOUD)
 
