@@ -7,6 +7,7 @@
 + IEEE Transactions on Software Engineering (TSE)
 + Empirical Software Engineering (EMSE)
 + IEEE Transactions on Dependable and Secure Computing (TDSC)
++ Communications of the ACM
 
 # List of Top Tier Conference
 + Financial Cryptography and Data Security (FC)
@@ -279,34 +280,9 @@
 + Reaching Consensus in the Byzantine Empire: A Comprehensive Review of BFT Consensus Algorithms
 + Economic Systems in the Metaverse: Basics, State of the Art, and Challenges
 
-## Blockchain 101
-+ [Bitcoin] Bitcoin: A Peer-to-Peer Electronic Cash System (2008)
-+ [Ethereum] Ethereum Whitepaper (2014)
-+ [Classical Consensus] The Byzantine Generals Problem (1982, ACM Transactions on Programming Languages and Systems (TOPLAS))
-+ [Bitcoin] Bitcoin's academic pedigree (2017, Communications of the ACM)
-
-## Layer 2
-+ [Bitcoin] The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments (2016, -)
-
-## Blockchain/Smart Contract Security/Privacy
-+ [Consensus Security] Majority is not enough: Bitcoin mining is vulnerable (2014, Financial Cryptography and Data Security)
-+ [Blockchain Privacy] A fistful of Bitcoins:  characterizing payments among men with no names (2013, conference on Internet measurement conference)
-+ [smart contract] Modal Abstractions for Smart Contract Validation (MODELS 2025)
-
-
-## DeFi (Decentralized Finance)
-+ [DeFi Security] Sok: Decentralized finance(defi) attacks (2023, IEEE Symposium on Security and Privacy (SP))
-+ [DeFi Security] Flash boys 2.0: Frontrunning in decentralized exchanges, miner extractable value, and consensus instability (2020, IEEE Symposium on Security and Privacy (SP))
-
-## PoS Security/Privacy
-+ [PoS Security] Ethereum Proof-of-Stake Consensus Layer: Participation and Decentralization (2024, Financial Cryptography and Data  Security)
-
-
-## PoW Security/Privacy
-
-## DApp (Decentralized Application)
-+ [NFT] Mft:Malicious Fungible Tokens (2024, DEFCON 32 Adversary Vilage)
-+ [Web3] Web2 Meets Web3 Hacking Decentralized Applications (2024, DEFCON 32 AppSec Vilage)
-
-## Cryptocurrency Wallet
-[BrainWallet] The One Bitcoin Heist : Making a custom Hashcat plugin to solve a decade-old puzzle challenge (2025, DEFCON 33 Presentation)
+## ETC
++ Bitcoin: A Peer-to-Peer Electronic Cash System
++ Ethereum Whitepaper
++ The Byzantine Generals Problem
++ Proof of history: what is it good for?
++ The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments
