@@ -51,6 +51,7 @@
   + International Conference on Common Criteria (ICCC)
   + Symposium on Vehicle Security and Privacy (VehicleSec)
   + International Conference on Cloud Computing (CLOUD)
+  + Workshop on the Security of Space and Satellite Systems (SpaceSec)
 
 ## NDSS
 ### 2025
