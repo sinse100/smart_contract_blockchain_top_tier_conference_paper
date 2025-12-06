@@ -55,6 +55,7 @@
   + Workshop on the Security of Space and Satellite Systems (SpaceSec)
   + USENIX Symposium on Networked Systems Design and Implementation (NSDI)
   + Secure Development Conference (SecDev)
+  + Digital Forensic Research Workshop (DFRWS)
 
 ## NDSS
 ### 2025
