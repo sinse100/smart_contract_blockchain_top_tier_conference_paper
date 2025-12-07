@@ -56,6 +56,7 @@
   + USENIX Symposium on Networked Systems Design and Implementation (NSDI)
   + Secure Development Conference (SecDev)
   + Digital Forensic Research Workshop (DFRWS)
+  + Conference on Neural Information Processing Systems (NeurIPS)
 
 ## NDSS
 ### 2025
