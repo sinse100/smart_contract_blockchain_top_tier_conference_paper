@@ -57,6 +57,7 @@
   + Secure Development Conference (SecDev)
   + Digital Forensic Research Workshop (DFRWS)
   + Conference on Neural Information Processing Systems (NeurIPS)
+  + Symposium on Operating Systems Principles (SOSP)
 
 ## NDSS
 ### 2025
