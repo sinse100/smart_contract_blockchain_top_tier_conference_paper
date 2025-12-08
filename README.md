@@ -7,7 +7,6 @@
 + IEEE Transactions on Software Engineering (TSE)
 + Empirical Software Engineering (EMSE)
 + IEEE Transactions on Dependable and Secure Computing (TDSC)
-+ Communications of the ACM
 
 # List of Top Tier Conference
 + Financial Cryptography and Data Security (FC)
