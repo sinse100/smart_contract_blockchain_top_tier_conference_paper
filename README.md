@@ -284,6 +284,12 @@
 + Reaching Consensus in the Byzantine Empire: A Comprehensive Review of BFT Consensus Algorithms
 + Economic Systems in the Metaverse: Basics, State of the Art, and Challenges
 
+## IMC
+### 2025
++ [security/privacy] Unmasking the Shadow Economy: A Deep Dive into Drainer-as-a-Service Phishing on Ethereum
++ [security/privacy] Quantifying the Threat of Sandwiching MEV on Jito: A Measurement of Solana‚Äôs Leading Validator Client
++ The Decentralization Dilemma: Performance Trade-Offs in IPFS and Breakpoints
+
 ## ETC
 + Bitcoin: A Peer-to-Peer Electronic Cash System
 + Ethereum Whitepaper
