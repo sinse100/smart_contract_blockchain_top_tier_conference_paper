@@ -297,6 +297,8 @@
 + [security/privacy] Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection
 + [security/privacy] OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine
 + [security/privacy] Enhancing Smart Contract Security Analysis with Execution Property Graphs
++ [security/privacy] Automated Attack Synthesis for Constant Product Market Makers
++ [security/privacy] Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts
 
 
 ## ETC
