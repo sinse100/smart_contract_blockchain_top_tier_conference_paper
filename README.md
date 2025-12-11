@@ -290,6 +290,15 @@
 + [security/privacy] Quantifying the Threat of Sandwiching MEV on Jito: A Measurement of Solana‚Äôs Leading Validator Client
 + The Decentralization Dilemma: Performance Trade-Offs in IPFS and Breakpoints
 
+## ISSTA
+### 2025
++ Why Does My Transaction Fail? A First Look at Failed Transactions on the Solana Blockchain
++ [security/privacy] SoK: A Taxonomic Analysis of DeFi Rug Pulls - Types, Dataset, and Tool Assessment
++ [security/privacy] Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection
++ [security/privacy] OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine
++ [security/privacy] Enhancing Smart Contract Security Analysis with Execution Property Graphs
+
+
 ## ETC
 + Bitcoin: A Peer-to-Peer Electronic Cash System
 + Ethereum Whitepaper
