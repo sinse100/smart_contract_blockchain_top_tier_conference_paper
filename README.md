@@ -57,6 +57,7 @@
   + Digital Forensic Research Workshop (DFRWS)
   + Conference on Neural Information Processing Systems (NeurIPS)
   + Symposium on Operating Systems Principles (SOSP)
+  + Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)
 
 ## NDSS
 ### 2025
