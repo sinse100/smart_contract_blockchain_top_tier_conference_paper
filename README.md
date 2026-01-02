@@ -43,6 +43,7 @@
 + International Conference on the Theory and Application of Cryptology and Information Security (Asiacrypt)
 + Symposium On Usable Privacy and Security (SOUPS)
 + International Conference on Applied Cryptography and Network Security (ACNS)
++ Annual Symposium on Foundations of Computer Science (FOCS)
 + etc
   + AAAI Conference on Artificial Intelligence (AAAI)
   + Military Communications Conference (MILCOM)
