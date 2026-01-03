@@ -44,6 +44,7 @@
 + Symposium On Usable Privacy and Security (SOUPS)
 + International Conference on Applied Cryptography and Network Security (ACNS)
 + Annual Symposium on Foundations of Computer Science (FOCS)
++ Symposium on Discrete Algorithms (SODA) 
 + etc
   + AAAI Conference on Artificial Intelligence (AAAI)
   + Military Communications Conference (MILCOM)
