@@ -60,6 +60,7 @@
   + Conference on Neural Information Processing Systems (NeurIPS)
   + Symposium on Operating Systems Principles (SOSP)
   + Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)
+  + Embedded Security in Cars (ESCAR)
 
 ## NDSS
 ### 2025
