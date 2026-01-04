@@ -46,6 +46,7 @@
 + Annual Symposium on Foundations of Computer Science (FOCS)
 + Symposium on Discrete Algorithms (SODA)
 + Symposium on Principles of Distributed Computing (PODC)
++ International Conference on the Foundations of Software Engineering (FSE)
 + etc
   + AAAI Conference on Artificial Intelligence (AAAI)
   + Military Communications Conference (MILCOM)
