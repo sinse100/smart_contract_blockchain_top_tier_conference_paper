@@ -47,6 +47,7 @@
 + Symposium on Discrete Algorithms (SODA)
 + Symposium on Principles of Distributed Computing (PODC)
 + International Conference on the Foundations of Software Engineering (FSE)
++ International Symposium on Formal Methods (FM)
 + etc
   + AAAI Conference on Artificial Intelligence (AAAI)
   + Military Communications Conference (MILCOM)
