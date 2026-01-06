@@ -1,5 +1,13 @@
 # smart_contract_blockchain_paper
 
+# 출처
++ [연구실 페이스북](https://www.facebook.com/groups/141562709261263)
++ [교수님 페이스북]()
++ [교수님 블로그](https://blog.naver.com/amhoin/221291896225)
++ 교수님 강의자료
++ [BK21 CS 국제우수학술대회](https://gist.github.com/Pusnow/6eb933355b5cb8d31ef1abcb3c3e1206)
++ [서울대학교 공과대학 컴퓨터공학부 Top Conference List](https://cse.snu.ac.kr/research/top-conference-list)
+
 # List of Top Tier Journal
 + Distributed Ledger Technologies: Research and Practice
 + IEEE Transactions on Information Forensics and Security (TIFS)
