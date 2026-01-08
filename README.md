@@ -72,6 +72,7 @@
   + Symposium on Operating Systems Principles (SOSP)
   + Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)
   + Embedded Security in Cars (ESCAR)
+  + Conference on Knowledge Discovery and Data Mining (KDD)
 
 ## NDSS
 ### 2025
