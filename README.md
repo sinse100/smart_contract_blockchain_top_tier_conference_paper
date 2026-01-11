@@ -73,6 +73,7 @@
   + Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)
   + Embedded Security in Cars (ESCAR)
   + Conference on Knowledge Discovery and Data Mining (KDD)
+  + Threat Modeling Connect (ThreatModCon)
 
 ## NDSS
 ### 2025
